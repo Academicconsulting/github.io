@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://Academicconsulting.winner.io/" 
+title: Academic Consulting
 paginate: 20
 theme: PaperMod
 
@@ -28,10 +28,10 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "My name is Jee In, and I have a rich educational and professional background spanning multiple countries, including the United States, Canada, Japan, and South Korea. I hold a PhD in Public Administration from Seoul National University and have developed strong research and statistical analysis skills. Professionally, I have worked with prestigious organizations such as the Open Government Partnership (OGP), Clinton Foundation, and SK Social Value Research Institute, focusing on research, policy evaluation, and strategic networking. Additionally, I have experience in academia, teaching subjects like environmental policy, sustainability, CSR, and ODA at the university level. My research focuses on global policy frameworks, sustainable development, and the strategic implementation of CSR and ESG initiatives."
+    author: Academic Consulting
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "January 2024"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -54,12 +54,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          title: Jee In Chung, PhD
+          subtitle: "My name is Jee In, and I have a rich educational and professional background spanning multiple countries, including the United States, Canada, Japan, and South Korea. I hold a PhD in Public Administration from Seoul National University and have developed strong research and statistical analysis skills. Professionally, I have worked with prestigious organizations such as the Open Government Partnership (OGP), Clinton Foundation, and SK Social Value Research Institute, focusing on research, policy evaluation, and strategic networking. Additionally, I have experience in academia, teaching subjects like environmental policy, sustainability, CSR, and ODA at the university level. My research focuses on global policy frameworks, sustainable development, and the strategic implementation of CSR and ESG initiatives."
+          imageUrl: "JY.png"
+          imageWidth: 260
+          imageHeight: 260
+          imageTitle: JY
           buttons:
             - name: Papers
               url: papers/
