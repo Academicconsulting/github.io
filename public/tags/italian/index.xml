@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Italian on Academic Consulting</title>
-    <link>https://academicconsulting/winner.git/tags/italian/</link>
+    <link>https://academicconsulting.github.io/winner/tags/italian/</link>
     <description>Recent content in Italian on Academic Consulting</description>
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://academicconsulting/winner.git/tags/italian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://academicconsulting.github.io/winner/tags/italian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://academicconsulting/winner.git/data/data1/</link>
+      <link>https://academicconsulting.github.io/winner/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://academicconsulting/winner.git/data/data1/</guid>
+      <guid>https://academicconsulting.github.io/winner/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
   </channel>
