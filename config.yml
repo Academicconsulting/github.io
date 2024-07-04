@@ -80,7 +80,7 @@ params:
         - name: cv
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: jic285@snu.ac.kr
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -104,7 +104,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Academic Consulting"
       icon: favicon.ico
       iconHeight: 18
 
