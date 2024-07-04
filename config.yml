@@ -1,4 +1,4 @@
-baseURL: "https://Academicconsulting.winner.io/" 
+baseURL: "https://academicconsulting/winner.git/" 
 title: Academic Consulting
 paginate: 20
 theme: PaperMod
