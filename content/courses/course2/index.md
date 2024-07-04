@@ -1,13 +1,13 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-lastmod: 2024-05-08
-tags: ["Irish","philology","profanity","Celtic languages"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
+title: "Environmental Administration and Governance" 
+date: 2023-01-01
+lastmod: 2024-07-08
+tags: ["Environmental Policy","ESG", "Sustainability", "SDG", "환경정책","거버넌스","지속가능성"]
+author: ["Jee In Chung"]
 description: "This undergraduate course discusses profanity in Early Irish." 
 summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
 cover:
-    image: "course2.png"
+    image: image.png"
     alt: "Figure caption"
     relative: false
 editPost:
@@ -20,17 +20,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
-
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
-
-##### Introductory video
-
-+ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
+...
 
 ##### Introductory readings
 

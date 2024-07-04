@@ -3,13 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://academicconsulting.github.io/winner/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/courses/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/courses/course2/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/environmental-policy/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/esg/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/firm/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/organizational-behavior/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/courses/course1/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/public-service/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/sdg/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/sustainability/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%EC%84%B1/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academicconsulting.github.io/winner/tags/%ED%99%98%EA%B2%BD%EC%A0%95%EC%B1%85/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/data/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
@@ -36,9 +78,6 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/tags/spanish/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/tags/history-of-oil/</loc>
@@ -68,21 +107,6 @@
     <loc>https://academicconsulting.github.io/winner/tags/zoology/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academicconsulting.github.io/winner/courses/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/firm/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/organizational-behavior/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/courses/course1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/public-service/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://academicconsulting.github.io/winner/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -90,18 +114,6 @@
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/books/book1/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/celtic-languages/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/irish/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/tags/profanity/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academicconsulting.github.io/winner/courses/course2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academicconsulting.github.io/winner/archive/</loc>
