@@ -7,7 +7,7 @@ author: ["Jee In Chung"]
 description: "This undergraduate course discusses profanity in Early Irish." 
 summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
 cover:
-    image: image.png"
+    image: "image.png"
     alt: "Figure caption"
     relative: false
 editPost:
